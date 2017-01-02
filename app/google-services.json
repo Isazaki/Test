@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206195182911",
+    "firebase_url": "https://entry-test-d98f1.firebaseio.com",
+    "project_id": "entry-test-d98f1",
+    "storage_bucket": "entry-test-d98f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206195182911:android:01a6b1c3c6e10a6b",
+        "android_client_info": {
+          "package_name": "malawi_music.com.entrytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206195182911-9bh3jdltu4decbhaadp1g5qi8o4o0pia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8IrzoyM2MFBksLd_w8Q70qhGCcvp-JA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
